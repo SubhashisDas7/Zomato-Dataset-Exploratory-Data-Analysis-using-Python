@@ -1,6 +1,4 @@
 # Zomato-Dataset-Exploratory-Data-Analysis-using-Python
-I will analyze the **Zomato.ipynb** file and extract the **Project Objective, Insights, and Conclusion** for you. Let me process the file now.
-
 ### **Project Objective (Zomato Dataset Analysis)**  
 The primary objective of this project is to **analyze the Zomato dataset** to gain insights into restaurant trends, customer preferences, and key business factors that influence restaurant ratings and success. The analysis focuses on:  
 - Identifying patterns in **restaurant ratings and customer reviews**  
