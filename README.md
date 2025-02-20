@@ -40,4 +40,4 @@ The primary objective of this project is to **analyze the Zomato dataset** to ga
 - Restaurants with **consistent high ratings** usually offer a mix of **affordable pricing, good service, and popular cuisines**.  
 - The dataset can help restaurant owners **strategize pricing, location, and menu offerings** to maximize success.  
 
-Would you like me to perform any **specific analysis** on this dataset? 🚀
+
